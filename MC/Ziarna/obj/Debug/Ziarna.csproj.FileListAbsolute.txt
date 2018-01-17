@@ -1,0 +1,9 @@
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\bin\Debug\Ziarna.exe.config
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\bin\Debug\Ziarna.exe
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\bin\Debug\Ziarna.pdb
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\obj\Debug\Ziarna.csprojResolveAssemblyReference.cache
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\obj\Debug\Ziarna.Form1.resources
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\obj\Debug\Ziarna.Properties.Resources.resources
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\obj\Debug\Ziarna.csproj.GenerateResource.Cache
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\obj\Debug\Ziarna.exe
+\\krywan\redirecteduserfolders\padryan\documents\visual studio 2015\Projects\Ziarna\Ziarna\obj\Debug\Ziarna.pdb
